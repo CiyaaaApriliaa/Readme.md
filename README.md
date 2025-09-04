@@ -1,4 +1,4 @@
-# Hi, I'm Ciyaaa 👋
+# About Me
 
 💻 I'm a tinkerer in **GrowSoft scripting**, **networking (MikroTik/RouterOS)**, and backend utilities.  
 🌱 Currently learning and building projects around **Lua**, **Python3**, **Node.js**, and **network automation**.  
